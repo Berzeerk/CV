@@ -1,0 +1,30 @@
+ * {
+    font-family: Proxima Nova;
+ }
+  .photo {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    overflow: hidden;
+    border-radius: 50%;
+    transform: translate(-700px);
+  }
+  
+  .personPhoto {
+    width: auto;
+    height: 100%;
+    margin-left: -40px;
+  }
+  .contact{
+    display: block; 
+ 
+    
+}
+.aboutme{
+    display: block; 
+
+}
+.myexpirience{
+    display: block;  
+
+}
